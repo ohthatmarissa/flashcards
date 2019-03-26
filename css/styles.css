@@ -17,3 +17,15 @@
 #css {
   background-color: yellow;
 }
+
+.collapsible-css {
+  display: none;
+}
+
+.collapsible-bs {
+  display: none;
+}
+
+.collapsible-html {
+  display: none;
+}
