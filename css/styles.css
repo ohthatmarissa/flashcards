@@ -1,0 +1,19 @@
+.jumbotron h1 {
+  text-align: center;
+}
+
+.card h2 {
+  text-align: center;
+}
+
+#bs {
+  background-color: pink;
+}
+
+#html {
+  background-color: lightgreen;
+}
+
+#css {
+  background-color: yellow;
+}
